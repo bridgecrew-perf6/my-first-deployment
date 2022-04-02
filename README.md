@@ -1,10 +1,10 @@
-# My Very First Website
-Welcome to my very first website!
+# My Very First Deployment
+Welcome to my very first deployment!
 
 This website was built as part of the learning material for Code Institute's Fullstack Web Developer program.
 
 ## Showcase
-You can check out the website here! [Hello World](https://tetrapak-dev.github.io/my-first-website/)
+You can check out the website here! [Hello World](https://tetrapak-dev.github.io/my-first-deployment/)
 
 ![showcase_my_first_deployment](https://github.com/tetrapak-dev/my-first-deployment/blob/master/assets/images/showcase_my_first_deployment.png)
 
